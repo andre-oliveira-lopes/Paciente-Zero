@@ -120,7 +120,7 @@ Empresas de tecnologias importantes
 
 Livros sobre GitHub recomendados 
 *https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772*
-----
+---
 
 **Aula 2 - Primiera execução no VS Code**
 
@@ -175,7 +175,7 @@ Livros sobre GitHub recomendados
     aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
         /// README.md ; Issues ; Pull Requests. 
 
-                                        ##**Marcações Simples**##
+                                        **Marcações Simples**
 
     **NEGRITO** 
     Assim fazemos um negrito na linguagem de Marcação Markdown.
@@ -257,7 +257,7 @@ Livros sobre GitHub recomendados
     @pessoa
     Assim fazemos uma menção a uma pessoa na linguagem de Marcação Markdown.
     
-     						##**Marcações Compostas**
+     						**Marcações Compostas**
     				
     __*NEGRITO e ITÁLICO*__
     Assim fazemos um negrito e itálico na linguagem de Marcação Markdown.
