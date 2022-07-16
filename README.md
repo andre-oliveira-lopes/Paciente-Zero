@@ -8,12 +8,15 @@ As 4 liberdades básicas associadas ao software livre são:
         * A liberdade de executar o programa, para qualquer propósito 
         (liberdade nº 0).
 
-        * A liberdade de estudar como o programa funciona, e adaptá-lo para as suas necessidades (liberdade nº 1). 
+        * A liberdade de estudar como o programa funciona, e adaptá-lo para as suas necessidades 
+        (liberdade nº 1). 
         Acesso ao código-fonte é um pré-requisito para esta liberdade.
 
-        * A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo (liberdade nº 2).
+        * A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo 
+        (liberdade nº 2).
 
-        * A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie 
+        * A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que 
+        toda a comunidade se beneficie 
         (liberdade nº 3). 
         Acesso ao código-fonte é um pré-requisito para esta liberdade. 
 
@@ -108,8 +111,11 @@ GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores.
                 contanto que você obedeça as licenças. 
 
 Links:
+Tipos de Octocat em desenhos
 https://octodex.github.com
+Empresas de tecnologias importantes
 https://www.forbes.com/cloud100/#4d8aa9c05f94
+Livros sobre GitHub recomendados 
 https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772
 
 **Aula 2 - Primiera execução no VS Code**
@@ -124,7 +130,7 @@ https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772
 
     /// Pelo que eu entendi o VS code tem varios terminais que eu posso escolher pra executar meus programas
     /// Tem o "Promtp de comando"; O "PowerShell" e o "Git Bast" do Git. 
-    /// Fonte da informação: https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code
+    /// Fonte: https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code
 
 
 **Aula 3 - Termos em Git e GitHub**
@@ -139,24 +145,30 @@ https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772
     São Problemas que você descobriu, mas não sabe como resolver.
 
     **Pull Requests** 
-    Você viu um problema no software e cria uma fork, depois criar uma ramificação desse projeto e concertar esse
-    trabalho e então enviar sua solução para um desenvolvedor. Talvez você virar um colaborar desse projeto, e 
-    pode colocar no seu curriculo. 
+    Você viu um problema no software e cria uma fork, depois criar uma ramificação desse projeto e 
+    concertar esse trabalho e então enviar sua solução para um desenvolvedor. Talvez você virar um 
+    colaborar desse projeto, e pode colocar no seu curriculo. 
 
     **Branches ou ramificações**
-    Um galho que vc pode criar uma incrementação auxiliar para não prejudicar a branch (galho) principal do sistema. Utilizando vários multiversos pra você testar suas ideias. 
+    Um galho que vc pode criar uma incrementação auxiliar para não prejudicar a branch (galho) principal 
+    do sistema. Utilizando vários multiversos pra você testar suas ideias. 
 
     **Branch máster**
-    O ramo principal de produção, é o ramo final é minha versão corrente. Vantagem, com o software já desenvolvido imagine que alguém abril uma Isseus relatando um problema, então você criar uma ramificação pra resolver esse problema e depois commitar. 
+    O ramo principal de produção, é o ramo final é minha versão corrente. Vantagem, com o software já 
+    desenvolvido imagine que alguém abril uma Isseus relatando um problema, então você criar uma 
+    ramificação pra resolver esse problema e depois commitar. 
     OBS: evite commitar tudo na sua Branch máster, e sim criar ramos. 
 
     **Merge**
-    É utilizada para juntar varias branches testadas e aprovadas e joga-las na ramificação do galho principal. 
+    É utilizada para juntar varias branches testadas e aprovadas e joga-las 
+    na ramificação do galho principal. 
 
 
 **Aula 4 - Descobrindo o README.md é na verdade uma linguagem de marcação**
 
-    /// A linguagem de Marcação Markdown que tem a terminação .md na verdade é uma irmã da HTML feita com o objetivo de ser uma linguem de facil leitura e de fácil conversão para HTML. Vvamos agora aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
+    /// A linguagem de Marcação Markdown que tem a terminação .md na verdade é uma irmã da HTML feita 
+    com o objetivo de ser uma linguem de facil leitura e de fácil conversão para HTML. Vvamos agora 
+    aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
         /// README.md ; Issues ; Pull Requests. 
 
                                         **Marcações Simples**
