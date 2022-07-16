@@ -50,8 +50,8 @@ Um repositório publico para programas
 		de teste 1.0
 		O que você faz?
 		Cria uma copia compactada em .zip para então começar o 2.0 e assim vai.
-	
-	Em 1972, o primeiro software de versionamento era Software de controle de 
+        
+        Em 1972, o primeiro software de versionamento era Software de controle de 
         versão centralizado ou linear. Com o avanço do tempo veio um mais moderno
         chamado de VCS distribuído, onde você tem varias pessoas trbalhando e 
         mandando para um repositório local sem a necessidade de internet ou 
@@ -64,15 +64,20 @@ Um repositório publico para programas
 	um commit ele vai salvar a diferença de um arquivo para o outro. 
 	
 **Principais Vantagens**:
+
 		♦ Controle de Histórico = Você pode ver o código antes de qual 				
                 quer modificação, controlar melhor, quem fez qual alteração no código.
-                ♦ Trabalho em equipe. 
+
+                ♦ Trabalho em equipe.
+
                 ♦ Ramificação do projeto = Faz o coração do sistema, site ou projeto, 		
                 ou seja, cada um vai ter seu ramo, seja ele designer, front-end e back-		
                 -end. Depois eu vou juntar todas essas ramificações com um (Must) e 			
-                fazer um (máster) que é o projeto principal. 
+                fazer um (máster) que é o projeto principal.
+
                 ♦ Segurança = Você só pode modificar aquela ramificação a qual vc 			
-                pertence, sem modifica as dos outros. 
+                pertence, sem modifica as dos outros.
+
                 ♦ Otimização = Se você apagar algo enganado, você pode voltar em um 			
                 Commit anterior e pegar o que foi apagado por engano, economizando 			
                 trabalho. 
