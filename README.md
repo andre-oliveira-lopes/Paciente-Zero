@@ -1,7 +1,6 @@
 # Paciente-Zero
- Primeiro Teste de Versionamento de iniciante.
-
- Estou aprendendo a usar o Git e GitHub. 
+ **Primeiro Teste de Versionamento de iniciante.
+ Estou aprendendo a usar o Git e GitHub.** 
 
 As 4 liberdades básicas associadas ao software livre são:
 
@@ -92,7 +91,7 @@ __________________________________________
 	• O GitHub é uma plataforma social para programadores
 	• Você consegue subir código, colaborar e testar o código dos outros
 	
-		Ex:  Quero guardar os versionamentos do meu código para apresentar 			
+		Ex: Quero guardar os versionamentos do meu código para apresentar 			
                 no meu perfil do GitHub. (Vou lá, abrir meu repositor de código de preferencia.) 
 		
 			֎ GitHub
