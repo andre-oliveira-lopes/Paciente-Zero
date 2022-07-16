@@ -23,10 +23,10 @@ As 4 liberdades básicas associadas ao software livre são:
 __________________________________________
 *Desafios de usar o VS Code*
 
-### Aula 1 - Historia do VS Code
+## Aula 1 - Historia do VS Code
 
-Para que serve o GitHub?
-Um repositório publico para programas 
+*_Para que serve o GitHub?_*
+**Um repositório publico para programas** 
 
 	
 ### O que é Git? 
@@ -68,12 +68,14 @@ Um repositório publico para programas
                 ♦ Controle de Histórico = Você pode ver o código antes de qual quer 
                 modificação, controlar melhor, quem fez qual alteração no código.
                 
-                ♦ Trabalho em equipe.
+                ♦ Trabalho em Equipe = Enquanto uma pessoa trabalha em uma parte do 
+                código a outra trabalha em outra parte, em horarios diferentes e depois
+                é so commitar. 
                 
                 ♦ Ramificação do projeto = Faz o coração do sistema, site ou projeto, 		
                 ou seja, cada um vai ter seu ramo, seja ele designer, front-end e back-		
-                -end. Depois eu vou juntar todas essas ramificações com um (Must) e 			
-                fazer um (máster) que é o projeto principal.
+                -end. Depois eu vou juntar todas essas ramificações com um (marge) e 			
+                juntar em um (máster) que é o projeto principal.
                 
                 ♦ Segurança = Você só pode modificar aquela ramificação a qual vc 			
                 pertence, sem modifica as dos outros.
@@ -100,20 +102,26 @@ Um repositório publico para programas
 			֎ Kallithea
 
 		kkkkkkkkkkkkkkkkkk
-**Principais Vantagens:**	
-		♦ Repositório = uma pasta que você coloca um projeto divulgado. há dois 		
+## **Principais Vantagens:**
+
+                ♦ Repositório = uma pasta que você coloca um projeto divulgado. há dois 		
                 tipos: repositórios públicos e privados. Onde em cada um deles você 			
                 pode fazer quantos projetos você quiser. Só tem um porém, para projetos 		
                 privados você pode ter até 3 colaboradores.
-		♦ Hospedagem de código-fonte = Ele vai guardar o código de programação 		
+                
+                ♦ Hospedagem de código-fonte = Ele vai guardar o código de programação 		
                 de qualquer linguagem. 
-		♦ Características de Redes Social: Você vai conhecer pessoas e projetos 		
-                novos, você vai aprender com outros repositórios. 
-		♦ GitHub Pages integrado: Ele vai deixar você hospedar html, css e 			
+                
+                ♦ Características de Redes Social: Você vai conhecer pessoas e projetos 		
+                novos, você vai aprender com outros repositórios.
+
+                ♦ GitHub Pages integrado: Ele vai deixar você hospedar html, css e 			
                 javascript de forma básica pra hospedar um site utilizando meu 				
                 repositório publico.
-		♦ Colaboração: Você tem os projetos, os pacotes, você segue as pessoas. 
-		♦ Forks: Você pode editar projetos de outra pessoas por conta própria 		
+                
+                ♦ Colaboração: Você tem os projetos, os pacotes, você segue as pessoas. 
+                
+                ♦ Forks: Você pode editar projetos de outra pessoas por conta própria 		
                 contanto que você obedeça as licenças. 
 
 ---
