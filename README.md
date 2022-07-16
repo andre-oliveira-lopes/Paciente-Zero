@@ -110,8 +110,9 @@ GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores.
 		♦ Forks: Você pode editar projetos de outra pessoas por conta própria 		
                 contanto que você obedeça as licenças. 
 
-Links:
 ---
+Links:
+
 Tipos de Octocat em desenhos
 *https://octodex.github.com*
 
@@ -120,7 +121,6 @@ Empresas de tecnologias importantes
 
 Livros sobre GitHub recomendados 
 *https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772*
----
 
 **Aula 2 - Primiera execução no VS Code**
 
@@ -170,10 +170,10 @@ Livros sobre GitHub recomendados
 
 **Aula 4 - Descobrindo o README.md é na verdade uma linguagem de marcação**
 
-    /// A linguagem de Marcação Markdown que tem a terminação .md na verdade é uma irmã da HTML feita 
+    • A linguagem de Marcação Markdown que tem a terminação .md na verdade é uma irmã da HTML feita 
     com o objetivo de ser uma linguem de facil leitura e de fácil conversão para HTML. Vvamos agora 
     aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
-        /// README.md ; Issues ; Pull Requests. 
+        • README.md ; Issues ; Pull Requests. 
 
                                         **Marcações Simples**
 
