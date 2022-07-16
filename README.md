@@ -29,13 +29,13 @@ Para que serve o GitHub?
 Um repositório publico para programas 
 
 	
-## O que é Git? 
+### O que é Git? 
 
 	• Git = Software de controle de versão (VCS), ou seja, uma maquina do tempo.
 
-        • versionamento de software e código. (versões)
+        • Versionamento de software e código. (versões)
 
-        • muitas versões de uma mesma coisa. 
+        • Muitas versões de uma mesma coisa. 
 		
 		Ex:  Quero que você crie um site pra mim pra apresentar meu produto.
 		Vou lá, abrir meu editor de texto de preferencia. 
