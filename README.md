@@ -101,7 +101,6 @@ __________________________________________
 			֎ Gogs 
 			֎ Kallithea
 
-		kkkkkkkkkkkkkkkkkk
 ## **Principais Vantagens:**
 
                 ♦ Repositório = uma pasta que você coloca um projeto divulgado. há dois 		
@@ -138,7 +137,7 @@ Livros sobre GitHub recomendados
 
 ---
 
-**Aula 2 - Primiera execução no VS Code**
+## **Aula 2 - Primiera execução no VS Code**
 
     /* Programa VS Code instalado */
     /* O programa minGW instalado + Configuração de Variavel de ambiente */
@@ -153,7 +152,7 @@ Livros sobre GitHub recomendados
     /// Fonte: https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code
 
 
-**Aula 3 - Termos em Git e GitHub**
+## **Aula 3 - Termos em Git e GitHub**
 
     **Repositório Central** 
     Quando você pega uma pasta, monitora ela e manda pra um repositório central, Nós fizemos um commit.
@@ -184,7 +183,7 @@ Livros sobre GitHub recomendados
     na ramificação do galho principal. 
 
 
-**Aula 4 - Descobrindo o README.md é na verdade uma linguagem de marcação**
+## **Aula 4 - Descobrindo o README.md é na verdade uma linguagem de marcação**
 
     • A linguagem de Marcação Markdown que tem a terminação .md na verdade é uma irmã da HTML feita 
     com o objetivo de ser uma linguem de facil leitura e de fácil conversão para HTML. Vvamos agora 
