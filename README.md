@@ -23,9 +23,10 @@ As 4 liberdades básicas associadas ao software livre são:
 __________________________________________
 *Desafios de usar o VS Code*
 
-## Aula 1 - Historia do VS Code
+## Aula 1 - História do VS Code
 
 *_Para que serve o GitHub?_*
+
 **Um repositório publico para programas** 
 
 	
@@ -36,7 +37,7 @@ __________________________________________
         • Muitas versões de uma mesma coisa. 
 		
 		Ex:  Quero que você crie um site pra mim pra apresentar meu produto.
-		Vou lá, abrir meu editor de texto de preferencia. 
+                Vou lá, abrir meu editor de texto de preferencia. 
 		
 			֎ VS Code
 			֎ Sublime
@@ -85,7 +86,7 @@ __________________________________________
                 trabalho. 
 			
 		
-### GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores. 
+**GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores.** 
 
 	• O GitHub é meu repositório remoto
 	• O GitHub é uma plataforma social para programadores
@@ -101,7 +102,7 @@ __________________________________________
 			֎ Gogs 
 			֎ Kallithea
 
-## **Principais Vantagens:**
+**Principais Vantagens:**
 
                 ♦ Repositório = uma pasta que você coloca um projeto divulgado. há dois 		
                 tipos: repositórios públicos e privados. Onde em cada um deles você 			
@@ -190,7 +191,7 @@ Livros sobre GitHub recomendados
     aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
         • README.md ; Issues ; Pull Requests. 
 
-### Marcações Simples
+**Marcações Simples**
 
     **NEGRITO** 
     Assim fazemos um negrito na linguagem de Marcação Markdown.
@@ -272,7 +273,7 @@ Livros sobre GitHub recomendados
     @pessoa
     Assim fazemos uma menção a uma pessoa na linguagem de Marcação Markdown.
     
-### Marcações Compostas
+**Marcações Compostas**
     				
     __*NEGRITO e ITÁLICO*__
     Assim fazemos um negrito e itálico na linguagem de Marcação Markdown.
