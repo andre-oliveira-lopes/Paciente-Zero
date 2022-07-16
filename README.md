@@ -23,7 +23,7 @@ As 4 liberdades básicas associadas ao software livre são:
 __________________________________________
 *Desafios de usar o VS Code*
 
-**Aula 1 - Historia do VS Code**
+### Aula 1 - Historia do VS Code
 
 Para que serve o GitHub?
 Um repositório publico para programas 
@@ -65,7 +65,7 @@ Um repositório publico para programas
 	
 **Principais Vantagens**:
 
-		♦ Controle de Histórico = Você pode ver o código antes de qual quer 
+                ♦ Controle de Histórico = Você pode ver o código antes de qual quer 
                 modificação, controlar melhor, quem fez qual alteração no código.
                 
                 ♦ Trabalho em equipe.
