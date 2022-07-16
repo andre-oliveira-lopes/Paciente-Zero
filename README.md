@@ -93,8 +93,7 @@ __________________________________________
 	• Você consegue subir código, colaborar e testar o código dos outros
 	
 		Ex:  Quero guardar os versionamentos do meu código para apresentar 			
-                no meu perfil do GitHub.
-		Vou lá, abrir meu repositor de código de preferencia. 
+                no meu perfil do GitHub. (Vou lá, abrir meu repositor de código de preferencia.) 
 		
 			֎ GitHub
 			֎ GitLab
