@@ -31,7 +31,7 @@ Um repositório publico para programas
 	
 ### O que é Git? 
 
-	• Git = Software de controle de versão (VCS), ou seja, uma maquina do tempo.
+        • Git: Software de controle de versão (VCS), ou seja, uma maquina do tempo.
         • Versionamento de software e código (versões).
         • Muitas versões de uma mesma coisa. 
 		
@@ -65,19 +65,19 @@ Um repositório publico para programas
 	
 **Principais Vantagens**:
 
-		♦ Controle de Histórico = Você pode ver o código antes de qual 				
-                quer modificação, controlar melhor, quem fez qual alteração no código.
-
+		♦ Controle de Histórico = Você pode ver o código antes de qual quer 
+                modificação, controlar melhor, quem fez qual alteração no código.
+                
                 ♦ Trabalho em equipe.
-
+                
                 ♦ Ramificação do projeto = Faz o coração do sistema, site ou projeto, 		
                 ou seja, cada um vai ter seu ramo, seja ele designer, front-end e back-		
                 -end. Depois eu vou juntar todas essas ramificações com um (Must) e 			
                 fazer um (máster) que é o projeto principal.
-
+                
                 ♦ Segurança = Você só pode modificar aquela ramificação a qual vc 			
                 pertence, sem modifica as dos outros.
-
+                
                 ♦ Otimização = Se você apagar algo enganado, você pode voltar em um 			
                 Commit anterior e pegar o que foi apagado por engano, economizando 			
                 trabalho. 
