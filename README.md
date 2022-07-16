@@ -32,9 +32,7 @@ Um repositório publico para programas
 ### O que é Git? 
 
 	• Git = Software de controle de versão (VCS), ou seja, uma maquina do tempo.
-
-        • Versionamento de software e código. (versões)
-
+        • Versionamento de software e código (versões).
         • Muitas versões de uma mesma coisa. 
 		
 		Ex:  Quero que você crie um site pra mim pra apresentar meu produto.
@@ -65,7 +63,7 @@ Um repositório publico para programas
 	O Git é seu repositório local, na sua maquina, então toda vez que você der
 	um commit ele vai salvar a diferença de um arquivo para o outro. 
 	
-	Principais Vantagens:
+	**Principais Vantagens**:
 		♦ Controle de Histórico = Você pode ver o código antes de qual 				
                 quer modificação, controlar melhor, quem fez qual alteração no código 
 		♦ Trabalho em equipe
@@ -80,7 +78,7 @@ Um repositório publico para programas
                 trabalho. 
 			
 		
-GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores. 
+### GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores. 
 
 	• O GitHub é meu repositório remoto
 	• O GitHub é uma plataforma social para programadores
@@ -97,7 +95,7 @@ GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores.
 			֎ Kallithea
 
 		kkkkkkkkkkkkkkkkkk
-	Principais Vantagens:	
+	**Principais Vantagens:**	
 		♦ Repositório = uma pasta que você coloca um projeto divulgado. há dois 		
                 tipos: repositórios públicos e privados. Onde em cada um deles você 			
                 pode fazer quantos projetos você quiser. Só tem um porém, para projetos 		
