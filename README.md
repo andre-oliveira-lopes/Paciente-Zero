@@ -20,7 +20,7 @@ As 4 liberdades básicas associadas ao software livre são:
         Acesso ao código-fonte é um pré-requisito para esta liberdade. 
 
 __________________________________________
-## Desafios de usar o VS Code
+## *Desafios de usar o VS Code*
 
 ## Aula 1 - História do VS Code
 
@@ -35,7 +35,7 @@ __________________________________________
         • Versionamento de software e código (versões).
         • Muitas versões de uma mesma coisa. 
 		
-		Ex:  Quero que você crie um site pra mim pra apresentar meu produto.
+		Ex: Quero que você crie um site pra mim pra apresentar meu produto.
                 Vou lá, abrir meu editor de texto de preferencia. 
 		
 			֎ VS Code
