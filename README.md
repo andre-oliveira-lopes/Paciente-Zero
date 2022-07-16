@@ -51,19 +51,19 @@ Um repositório publico para programas
 		O que você faz?
 		Cria uma copia compactada em .zip para então começar o 2.0 e assim vai.
 	
-	Em 1972, o primeiro software de versionamento era Software de controle de 	
-        versão centralizado ou linear. Com o avanço do tempo veio um mais moderno 	
-        chamado de VCS distribuído, onde você tem varias pessoas trbalhando e 		
-        mandando para um repositório local sem a necessidade de internet ou 	
-        processamento de um servidor, mudando de repositório central para um
-	repositório remoto, onde ao chegar em um break Ponit (ponto de meta), 
-	você vai além do Commit, você vai jogar no repositório com um push.  
-	você joga as versões do seu projetos. OBS: O Git é um VCS Distribuído.
+	Em 1972, o primeiro software de versionamento era Software de controle de 
+        versão centralizado ou linear. Com o avanço do tempo veio um mais moderno
+        chamado de VCS distribuído, onde você tem varias pessoas trbalhando e 
+        mandando para um repositório local sem a necessidade de internet ou 
+        processamento de um servidor, mudando de repositório central para um 
+        repositório remoto, onde ao chegar em um break Ponit (ponto de meta), 
+        você vai além do Commit, você vai jogar no repositório com um push. 
+        você joga as versões do seu projetos. OBS: O Git é um VCS Distribuído.
 	  
 	O Git é seu repositório local, na sua maquina, então toda vez que você der
 	um commit ele vai salvar a diferença de um arquivo para o outro. 
 	
-	**Principais Vantagens**:
+**Principais Vantagens**:
 		♦ Controle de Histórico = Você pode ver o código antes de qual 				
                 quer modificação, controlar melhor, quem fez qual alteração no código 
 		♦ Trabalho em equipe
@@ -95,7 +95,7 @@ Um repositório publico para programas
 			֎ Kallithea
 
 		kkkkkkkkkkkkkkkkkk
-	**Principais Vantagens:**	
+**Principais Vantagens:**	
 		♦ Repositório = uma pasta que você coloca um projeto divulgado. há dois 		
                 tipos: repositórios públicos e privados. Onde em cada um deles você 			
                 pode fazer quantos projetos você quiser. Só tem um porém, para projetos 		
@@ -178,7 +178,7 @@ Livros sobre GitHub recomendados
     aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
         • README.md ; Issues ; Pull Requests. 
 
-                                        ##Marcações Simples
+### Marcações Simples
 
     **NEGRITO** 
     Assim fazemos um negrito na linguagem de Marcação Markdown.
@@ -260,7 +260,7 @@ Livros sobre GitHub recomendados
     @pessoa
     Assim fazemos uma menção a uma pessoa na linguagem de Marcação Markdown.
     
-     						## Marcações Compostas
+### Marcações Compostas
     				
     __*NEGRITO e ITÁLICO*__
     Assim fazemos um negrito e itálico na linguagem de Marcação Markdown.
