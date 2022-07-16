@@ -111,14 +111,16 @@ GitHub = Plataforma de Rede Social para Programadores e Desenvolvedores.
                 contanto que você obedeça as licenças. 
 
 Links:
+---
 Tipos de Octocat em desenhos
-https://octodex.github.com
+*https://octodex.github.com*
 
 Empresas de tecnologias importantes
-https://www.forbes.com/cloud100/#4d8aa9c05f94
+*https://www.forbes.com/cloud100/#4d8aa9c05f94*
 
 Livros sobre GitHub recomendados 
-https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772
+*https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772*
+----
 
 **Aula 2 - Primiera execução no VS Code**
 
@@ -173,7 +175,7 @@ https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772
     aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
         /// README.md ; Issues ; Pull Requests. 
 
-                                        ## **Marcações Simples**
+                                        ##**Marcações Simples**##
 
     **NEGRITO** 
     Assim fazemos um negrito na linguagem de Marcação Markdown.
@@ -255,7 +257,7 @@ https://www.amazon.com.br/Pro-Git-Scott-Chacon/dp/1484200772
     @pessoa
     Assim fazemos uma menção a uma pessoa na linguagem de Marcação Markdown.
     
-     						## **Marcações Compostas**
+     						##**Marcações Compostas**
     				
     __*NEGRITO e ITÁLICO*__
     Assim fazemos um negrito e itálico na linguagem de Marcação Markdown.
